@@ -48,8 +48,8 @@ Coba naikkan nilai **Monthly payment** sampai hasil perhitungan muncul kembali.
 
 Di bagian atas tersedia dua pilihan tampilan:
 
-- **Modern**: tampilan lebih ringkas.
-- **Comfort**: tampilan lebih besar dan lebih mudah dibaca.
+- **Light**: tampilan utama berbasis Comfort, lebih besar dan mudah dibaca.
+- **Dark**: tampilan gelap dengan kontras tinggi untuk kondisi minim cahaya.
 
 Pilih tampilan yang paling nyaman untuk Anda.
 
