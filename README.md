@@ -33,7 +33,10 @@ Tabel di bagian bawah menunjukkan rincian setiap bulan:
 - **Principal**: bagian pembayaran yang mengurangi pokok pinjaman.
 - **Remaining balance**: sisa pinjaman setelah pembayaran bulan tersebut.
 
-Jika tabel terlalu panjang, Anda bisa menggulirnya ke bawah.
+Jika tabel terlalu panjang, data akan ditampilkan maksimal 10 baris per bagian.
+Di desktop, gunakan tombol **Previous** dan **Next** untuk berpindah halaman.
+Di mobile, tekan **Load more** atau gulir sampai bawah untuk memuat 10 baris berikutnya.
+Gunakan tombol **Back to inputs** di mobile untuk kembali cepat ke form input.
 
 ## Peringatan Pembayaran Terlalu Rendah
 
