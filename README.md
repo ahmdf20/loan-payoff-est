@@ -52,3 +52,9 @@ Di bagian atas tersedia dua pilihan tampilan:
 - **Comfort**: tampilan lebih besar dan lebih mudah dibaca.
 
 Pilih tampilan yang paling nyaman untuk Anda.
+
+## Struktur File
+
+- `index.html`: struktur halaman.
+- `styles.css`: style tampilan desktop dan mobile.
+- `app.js`: logika kalkulasi, pagination, dan load more.
